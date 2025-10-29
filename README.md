@@ -12,7 +12,7 @@ A lightweight Bash script for automatically fetching new torrent files from RSS 
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/rss-torrent.git
+git clone https://github.com/ipillyx/rss-torrent.git
 cd rss-torrent
 cp config.example.xml config.xml
 cp .env.example .env
