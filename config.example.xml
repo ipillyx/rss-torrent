@@ -1,0 +1,13 @@
+<config>
+  <download_dir>./downloads</download_dir>
+  <history_file>./history.txt</history_file>
+
+  <rss>
+    <feed>
+      <url>https://example.com/rss/feed1.xml</url>
+    </feed>
+    <feed>
+      <url>https://another-site.org/rss/your_feed.xml</url>
+    </feed>
+  </rss>
+</config>
